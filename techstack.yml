@@ -1,7 +1,8 @@
 repo_name: mollypi/action-gh-release
 report_id: 959fd1fbde304c763e30172e248395d7
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-15T05:34:25+00:00'
+timestamp: '2024-01-05T08:42:23+00:00'
 requested_by: fredemmott
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/mollypi/action-gh-release
   detection_source: Repo Metadata
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/mollypi/action-gh-release
   detection_source: Repo Metadata
 - name: Node.js
   description: A platform built on Chrome's JavaScript runtime for easily building
@@ -36,6 +39,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/mollypi/action-gh-release/blob/master/package.json
   detection_source: package.json
   last_updated_by: softprops
   last_updated_on: 2019-09-09 08:10:07.000000000 Z
@@ -47,6 +51,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/mollypi/action-gh-release
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -56,6 +61,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/mollypi/action-gh-release/blob/master/.github/workflows/main.yml
   detection_source: ".github/workflows/main.yml"
   last_updated_by: koplo199
   last_updated_on: 2022-11-21 06:50:24.000000000 Z
@@ -69,7 +75,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/830/jest.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mollypi/action-gh-release/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: softprops
   last_updated_on: 2019-09-09 08:10:07.000000000 Z
@@ -83,7 +89,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mollypi/action-gh-release/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-12-05 03:08:19.000000000 Z
@@ -95,6 +101,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/mollypi/action-gh-release/blob/master/package.json
   detection_source: package.json
   last_updated_by: softprops
   last_updated_on: 2019-09-09 08:10:07.000000000 Z
@@ -107,6 +114,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/mollypi/action-gh-release
   detection_source: Repo Metadata
 - name: "@types/glob"
   description: TypeScript definitions for Glob
@@ -118,7 +126,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16391/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mollypi/action-gh-release/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-11-21 07:04:09.000000000 Z
@@ -132,7 +140,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mollypi/action-gh-release/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-11-21 07:04:09.000000000 Z
@@ -146,7 +154,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18274/default_7a7ed285fac4b842f0d8c3991804954d9db6b793.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mollypi/action-gh-release/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-11-21 07:04:09.000000000 Z
@@ -160,7 +168,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mollypi/action-gh-release/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-11-21 07:04:09.000000000 Z
@@ -174,7 +182,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16459/default_5ffcf8d02a3454bd25d27d236025c6d078c3b672.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mollypi/action-gh-release/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-11-21 07:04:09.000000000 Z
@@ -188,7 +196,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mollypi/action-gh-release/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: koplo199
   last_updated_on: 2022-11-21 06:50:24.000000000 Z
@@ -202,7 +210,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16182/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mollypi/action-gh-release/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: koplo199
   last_updated_on: 2022-11-21 06:50:24.000000000 Z
@@ -216,7 +224,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15978/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mollypi/action-gh-release/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: koplo199
   last_updated_on: 2022-11-21 06:50:24.000000000 Z
@@ -231,7 +239,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15864/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mollypi/action-gh-release/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-11-21 07:03:58.000000000 Z
@@ -245,7 +253,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18061/default_4dc0f6b6f94933c7b1cd9e6944ac18356b3044fb.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mollypi/action-gh-release/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-11-21 07:04:09.000000000 Z
